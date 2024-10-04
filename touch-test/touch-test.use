@@ -1,0 +1,11 @@
+Touch Screen Test Utility
+=====================================
+Syntax:
+  # touch-test -display=[number] -eventsps
+
+Options:
+  -display : Specify display number
+  -eventsps : print out number of events per second
+
+Touch and drag your finger on the screen to draw.
+Touch for corners of screen to clear the screen.
